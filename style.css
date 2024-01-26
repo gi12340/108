@@ -1,0 +1,40 @@
+body
+{
+  font-family: "Sevillana", cursive;
+  background: rgb(150, 95, 172)
+}
+
+.header_div
+{
+  background: rgb(223, 223, 223);
+  color: black;
+}
+
+.header_div p
+{
+  font-family: "Playfair Display", sans-serif;
+  color: rgb(42, 175, 212);
+
+}
+
+.copy_right_footer
+{
+  position: fixed;
+  color: black;
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+  background-color: blanchedalmond;
+  line-height: 3;
+  text-align: center;
+  text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+.main_div button
+{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bolder;
+  letter-spacing: 3px;
+}
